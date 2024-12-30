@@ -1,0 +1,277 @@
+{
+    "en": {
+        "header": {
+            "darkMode": "DARK MODE",
+            "lightMode": "LIGHT MODE",
+            "language": "TÜRKÇE",
+            "languageSuffix": "'YE GEÇ",
+            "languagePrefix": "",
+            "skills": "Skills",
+            "projects": "Projects",
+            "hireMe": "Hire me"
+        },
+        "hero": {
+            "name": "Oğuzhan Evin",
+            "title": "Creative thinker Minimalism lover",
+            "description": "Hi, I’m Oğuzhan Evin. I’m a full-stack developer. If you are looking for a Developer who can craft solid and scalable frontend products with great user experiences, let’s shake hands with me.",
+            "heroImage": "./../../Assets/Images/hero-right.png",
+            "hireMe": "Hire me",
+            "github": "Github",
+            "linkedin": "Linkedin",
+            "links": {
+                "github": "https://github.com/Oguzhanevin",
+                "linkedin": "www.linkedin.com/in/oğuzhan-evin-16a454244",
+                "hireMe": "www.linkedin.com/in/oğuzhan-evin-16a454244"
+            }
+        },
+        "skills": {
+            "title": "Skills",
+            "items": [
+                {
+                    "name": "JavaScript",
+                    "description": "I took JavaScript courses, I still take HackerRank exams, and keep my JavaScript knowledge up to date."
+                },
+                {
+                    "name": "React.Js",
+                    "description": "I took React courses and I am completing my projects. If you are curious, I leave a link to a pizza project: https://pizza-theta-murex.vercel.app/."
+                },
+                {
+                    "name": "Python",
+                    "description": "I completed Python courses in ITU's data science training in 2023."
+                }
+            ]
+        },
+        "profile": {
+            "title": "Profile",
+            "profileInformation": {
+                "title": "Profile",
+                "items": [
+                    {
+                        "label": "Date of birth",
+                        "value": "10.06.1996"
+                    },
+                    {
+                        "label": "City of residence",
+                        "value": "Ankara"
+                    },
+                    {
+                        "label": "Educational background",
+                        "value": "TOBB University Bachelor's degree in Industrial Engineering, 2024"
+                    },
+                    {
+                        "label": "Preferred role",
+                        "value": "Frontend, UI"
+                    }
+                ]
+            },
+            "aboutMe": {
+                "title": "About Me",
+                "descriptions": [
+                    "I am an industrial engineer who wants to be a software developer. If I talk about myself, I am a funny, ordinary person who loves sports."
+                ]
+            }
+        },
+        "projects": {
+            "title": "Projects",
+            "items": [
+                {
+                    "title": "Workintech",
+                    "image": "./../../Assets/Images/projects-1.png",
+                    "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS, and Parcel Bundler and is available as an NPM package. The Git repository makes any type of customization to code and themes possible.",
+                    "technologies": [
+                        "react",
+                        "redux",
+                        "axios"
+                    ],
+                    "github": "Github",
+                    "viewSite": "View Site",
+                    "links": {
+                        "github": "#",
+                        "viewSite": "#"
+                    }
+                },
+                {
+                    "title": "Random Jokes",
+                    "image": "./../../Assets/Images/projects-2.png",
+                    "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS, and Parcel Bundler and is available as an NPM package. The Git repository makes any type of customization to code and themes possible.",
+                    "technologies": [
+                        "react",
+                        "redux",
+                        "axios"
+                    ],
+                    "github": "Github",
+                    "viewSite": "View Site",
+                    "links": {
+                        "github": "#",
+                        "viewSite": "#"
+                    }
+                },
+                {
+                    "title": "Journey",
+                    "image": "./../../Assets/Images/projects-3.png",
+                    "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS, and Parcel Bundler and is available as an NPM package. The Git repository makes any type of customization to code and themes possible.",
+                    "technologies": [
+                        "react",
+                        "redux",
+                        "axios"
+                    ],
+                    "github": "Github",
+                    "viewSite": "View Site",
+                    "links": {
+                        "github": "#",
+                        "viewSite": "#"
+                    }
+                }
+            ]
+        },
+        "footer": {
+            "title": "Let’s work together on your next product.",
+            "mail": "oguzhanevinn@gmail.com",
+            "personalBlog": "Personal Blog",
+            "github": "Github",
+            "linkedin": "Linkedin",
+            "links": {
+                "personalBlog": "#",
+                "github": "https://github.com/Oguzhanevin",
+                "linkedin": "www.linkedin.com/in/oğuzhan-evin-16a454244"
+            }
+        }
+    },
+    "tr": {
+        "header": {
+            "darkMode": "GECE MODU",
+            "lightMode": "GÜNDÜZ MODU",
+            "language": "ENGLISH",
+            "languageSuffix": "",
+            "languagePrefix": "SWITCH TO ",
+            "skills": "Beceriler",
+            "projects": "Projeler",
+            "hireMe": "İletişim"
+        },
+        "hero": {
+            "name": "Oğuzhan Evin",
+            "title": "Yaratıcı fikirler Minimalist çözümler",
+            "description": "Merhaba, Ben Oğuzhan Evin. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir front-end ürünleriyle harika kullanıcı deneyimleri yaratmak istiyorsanız, tanışalım mı?",
+            "heroImage": "./../../Assets/Images/hero-right.png",
+            "hireMe": "İletişim",
+            "github": "Github",
+            "linkedin": "Linkedin",
+            "links": {
+                "github": "https://github.com/Oguzhanevin",
+                "linkedin": "www.linkedin.com/in/oğuzhan-evin-16a454244"
+            }
+        },
+        "skills": {
+            "title": "Beceriler",
+            "items": [
+                {
+                    "name": "JavaScript",
+                    "description": "JavaScript dersleri aldım, halen HackerRank sınavlarına giriyorum ve JavaScript bilgilerimi güncel tutuyorum."
+                },
+                {
+                    "name": "React.Js",
+                    "description": "React derslerini aldım ve projelerimi tamamlıyorum. Merak ediyorsanız bir pizza projesinin linkini bırakıyorum: https://pizza-theta-murex.vercel.app/."
+                },
+                {
+                    "name": "Python",
+                    "description": "İTÜ veri bilimi eğitiminde Python kurslarını 2023 yılında tamamladım."
+                }
+            ]
+        },
+        "profile": {
+            "title": "Profil",
+            "profileInformation": {
+                "title": "Profil",
+                "items": [
+                    {
+                        "label": "Doğum tarihi",
+                        "value": "10.06.1996"
+                    },
+                    {
+                        "label": "İkamet şehri",
+                        "value": "Ankara"
+                    },
+                    {
+                        "label": "Eğitim durumu",
+                        "value": "TOBB Üniversitesi Endüstri Mühendisliği, 2024"
+                    },
+                    {
+                        "label": "Tercih ettiği rol",
+                        "value": "Frontend, UI"
+                    }
+                ]
+            },
+            "aboutMe": {
+                "title": "Hakkımda",
+                "descriptions": [
+                    "Yazılımcı olmak isteyen bir endüstri mühendisiyim. Kendimden bahsedecek olursam, sporu seven, komik, sıradan bir insanım."
+                ]
+            }
+        },
+        "projects": {
+            "title": "Projeler",
+            "items": [
+                {
+                    "title": "Workintech",
+                    "image": "./../../Assets/Images/projects-1.png",
+                    "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+                    "technologies": [
+                        "react",
+                        "redux",
+                        "axios"
+                    ],
+                    "github": "Github",
+                    "viewSite": "Görüntüle",
+                    "links": {
+                        "github": "#",
+                        "viewSite": "#"
+                    }
+                },
+                {
+                    "title": "Random Jokes",
+                    "image": "./../../Assets/Images/projects-2.png",
+                    "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+                    "technologies": [
+                        "react",
+                        "redux",
+                        "axios"
+                    ],
+                    "github": "Github",
+                    "viewSite": "Görüntüle",
+                    "links": {
+                        "github": "#",
+                        "viewSite": "#"
+                    }
+                },
+                {
+                    "title": "Journey",
+                    "image": "./../../Assets/Images/projects-3.png",
+                    "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+                    "technologies": [
+                        "react",
+                        "redux",
+                        "axios"
+                    ],
+                    "github": "Github",
+                    "viewSite": "Görüntüle",
+                    "links": {
+                        "github": "#",
+                        "viewSite": "#"
+                    }
+                }
+            ]
+        },
+        "footer": {
+            "title": "Gelin bir sonraki ürününüzde birlikte çalışalım.",
+            "mail": "oguzhanevinn@gmail.com",
+            "personalBlog": "Kişisel Blog",
+            "github": "Github",
+            "linkedin": "Linkedin",
+            "links": {
+                "personalBlog": "#",
+                "github": "https://github.com/Oguzhanevin",
+                "linkedin": "www.linkedin.com/in/oğuzhan-evin-16a454244"
+            }
+        }
+    }
+}
