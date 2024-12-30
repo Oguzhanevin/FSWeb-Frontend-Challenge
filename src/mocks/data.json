@@ -93,7 +93,7 @@
                 {
                     "title": "Pizza",
                     "image": "./../../Assets/Images/projects-2.png",
-                    "description": "The pizza project is a more comprehensive project, I used React HTML CSS and in this project, there is a page showing customer selections, then your order is received and the desired features.",
+                    "description": "The pizza project is a more comprehensive project, I used React HTML CSS and  in this project, there is a page showing customer selections, then your order is received and the desired features.",
                     "technologies": [
                         "react",
                         "redux",
@@ -109,7 +109,7 @@
                 {
                     "title": "E-commerce site",
                     "image": "./../../Assets/Images/projects-3.png",
-                    "description": "The e-commerce site is detailed just like the pizza project and I applied what we learned in html css react, this project also has features such as accessing the products of an e-commerce site and ordering product features.",
+                    "description": "The e-commerce site is detailed just like the pizza project and I applied what we learned in HTML CSS React, this project also has features such as accessing the products of an e-commerce site and ordering product features.",
                     "technologies": [
                         "react",
                         "redux",
@@ -246,7 +246,7 @@
                 {
                     "title": "E ticaret Sitesi",
                     "image": "./../../Assets/Images/projects-3.png",
-                    "description": "E ticaret sitesi de aynı pizza projesi gibi detaylı ve html css reactta öğrendiklerimizi uyguladım,bu projede de bir eticaret sitesinin ürünlerine erişim ve ürün özellikleri spariş verme gibi özellikleri var",
+                    "description": "E ticaret sitesi de aynı pizza projesi gibi detaylı ve HTML CSS Reactta öğrendiklerimizi uyguladım,bu projede de bir eticaret sitesinin ürünlerine erişim ve ürün özellikleri spariş verme gibi özellikleri var",
                     "technologies": [
                         "react",
                         "redux",

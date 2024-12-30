@@ -18,7 +18,7 @@ const Footer = () => {
               className="text-red-600 dark:text-purple-300 underline text-lg font-medium"
               href="mailto:oguzhannevin@gmail.com"
             >
-              oguzhannevin@gmail.com
+              oguzhanevinn@gmail.com
             </a>
           </div>
           <div className="flex flex-wrap gap-4 justify-center md:justify-end">
