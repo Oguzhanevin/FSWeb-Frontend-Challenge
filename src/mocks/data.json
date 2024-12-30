@@ -75,9 +75,9 @@
             "title": "Projects",
             "items": [
                 {
-                    "title": "Workintech",
+                    "title": "Witflix",
                     "image": "./../../Assets/Images/projects-1.png",
-                    "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS, and Parcel Bundler and is available as an NPM package. The Git repository makes any type of customization to code and themes possible.",
+                    "description": "This is my first project where we use html and css and this project is a netflix application.",
                     "technologies": [
                         "react",
                         "redux",
@@ -91,9 +91,9 @@
                     }
                 },
                 {
-                    "title": "Random Jokes",
+                    "title": "Pizza",
                     "image": "./../../Assets/Images/projects-2.png",
-                    "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS, and Parcel Bundler and is available as an NPM package. The Git repository makes any type of customization to code and themes possible.",
+                    "description": "The pizza project is a more comprehensive project, I used React HTML CSS and in this project, there is a page showing customer selections, then your order is received and the desired features.",
                     "technologies": [
                         "react",
                         "redux",
@@ -107,9 +107,9 @@
                     }
                 },
                 {
-                    "title": "Journey",
+                    "title": "E-commerce site",
                     "image": "./../../Assets/Images/projects-3.png",
-                    "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS, and Parcel Bundler and is available as an NPM package. The Git repository makes any type of customization to code and themes possible.",
+                    "description": "The e-commerce site is detailed just like the pizza project and I applied what we learned in html css react, this project also has features such as accessing the products of an e-commerce site and ordering product features.",
                     "technologies": [
                         "react",
                         "redux",
@@ -212,9 +212,9 @@
             "title": "Projeler",
             "items": [
                 {
-                    "title": "Workintech",
+                    "title": "Witflix",
                     "image": "./../../Assets/Images/projects-1.png",
-                    "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+                    "description": "Bu benim html ve css kullandığımız ilk projem ve bu proje bir netflix uygulamasıdır.",
                     "technologies": [
                         "react",
                         "redux",
@@ -228,9 +228,9 @@
                     }
                 },
                 {
-                    "title": "Random Jokes",
+                    "title": "Pizza",
                     "image": "./../../Assets/Images/projects-2.png",
-                    "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+                    "description": "Pizza projesi daha kapsamlı bir proje, React HTML CSS kullandım ve bu projemde müşteri seçimlerini, ardından siparişinizin alındığını ve istenilen özellikleri gösteren bir sayfa var.",
                     "technologies": [
                         "react",
                         "redux",
@@ -244,9 +244,9 @@
                     }
                 },
                 {
-                    "title": "Journey",
+                    "title": "E ticaret Sitesi",
                     "image": "./../../Assets/Images/projects-3.png",
-                    "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+                    "description": "E ticaret sitesi de aynı pizza projesi gibi detaylı ve html css reactta öğrendiklerimizi uyguladım,bu projede de bir eticaret sitesinin ürünlerine erişim ve ürün özellikleri spariş verme gibi özellikleri var",
                     "technologies": [
                         "react",
                         "redux",
