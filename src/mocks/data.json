@@ -32,8 +32,8 @@
                     "description": "I took JavaScript courses, I still take HackerRank exams, and keep my JavaScript knowledge up to date."
                 },
                 {
-                    "name": "React.Js",
-                    "description": "I took React courses and I am completing my projects. If you are curious, I leave a link to a pizza project: https://pizza-theta-murex.vercel.app/."
+                    "name": "ReactJs",
+                    "description": "I took React courses and I am completing my projects."
                 },
                 {
                     "name": "Python",
@@ -169,8 +169,8 @@
                     "description": "JavaScript dersleri aldım, halen HackerRank sınavlarına giriyorum ve JavaScript bilgilerimi güncel tutuyorum."
                 },
                 {
-                    "name": "React.Js",
-                    "description": "React derslerini aldım ve projelerimi tamamlıyorum. Merak ediyorsanız bir pizza projesinin linkini bırakıyorum: https://pizza-theta-murex.vercel.app/."
+                    "name": "ReactJs",
+                    "description": "React derslerini aldım ve projelerimi tamamlıyorum."
                 },
                 {
                     "name": "Python",
@@ -224,7 +224,7 @@
                     "viewSite": "Görüntüle",
                     "links": {
                         "github": "#",
-                        "viewSite": "#"
+                        "viewSite": "https://my-witflix.vercel.app/"
                     }
                 },
                 {
@@ -240,7 +240,7 @@
                     "viewSite": "Görüntüle",
                     "links": {
                         "github": "#",
-                        "viewSite": "#"
+                        "viewSite": "https://pizza-theta-murex.vercel.app/"
                     }
                 },
                 {
@@ -256,7 +256,7 @@
                     "viewSite": "Görüntüle",
                     "links": {
                         "github": "#",
-                        "viewSite": "#"
+                        "viewSite": "https://e-ticaret-pink.vercel.app/"
                     }
                 }
             ]

@@ -25,37 +25,15 @@ const Projects = () => {
               <p className="text-[#6B7280] dark:text-white text-xs text-center">
                 {item.description}
               </p>
-              {/* İlk proje için adres */}
-              {index === 0 && (
+              {/* Proje için dinamik link */}
+              {item.links.viewSite.includes("vercel.com") && (
                 <a
                   className="text-[#3730A3] dark:text-[#E1E1FF] font-medium underline hover:text-[#6B7280] dark:hover:text-[#AEBCCF] mt-2"
-                  href="https://my-witflix.vercel.app/"
+                  href={item.links.viewSite}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  https://my-witflix.vercel.app/
-                </a>
-              )}
-              {/* İkinci proje için adres */}
-              {index === 1 && (
-                <a
-                  className="text-[#3730A3] dark:text-[#E1E1FF] font-medium underline hover:text-[#6B7280] dark:hover:text-[#AEBCCF] mt-2"
-                  href="https://pizza-theta-murex.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  https://pizza-theta-murex.vercel.app/
-                </a>
-              )}
-              {/* Üçüncü proje için adres */}
-              {index === 2 && (
-                <a
-                  className="text-[#3730A3] dark:text-[#E1E1FF] font-medium underline hover:text-[#6B7280] dark:hover:text-[#AEBCCF] mt-2"
-                  href="https://e-ticaret-pink.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  https://e-ticaret-pink.vercel.app/
+                  {item.viewSite}
                 </a>
               )}
               <div className="flex flex-wrap justify-center my-2 gap-2">
@@ -77,14 +55,16 @@ const Projects = () => {
                 >
                   {item.github}
                 </a>
-                <a
-                  className="text-[#3730A3] dark:text-[#E1E1FF] font-medium underline hover:text-[#6B7280] dark:hover:text-[#AEBCCF]"
-                  href={item.links.viewSite}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {item.viewSite}
-                </a>
+                {item.links.viewSite && !item.links.viewSite.includes("vercel.com") && (
+                  <a
+                    className="text-[#3730A3] dark:text-[#E1E1FF] font-medium underline hover:text-[#6B7280] dark:hover:text-[#AEBCCF]"
+                    href={item.links.viewSite}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {item.viewSite}
+                  </a>
+                )}
               </div>
             </div>
           ))}
