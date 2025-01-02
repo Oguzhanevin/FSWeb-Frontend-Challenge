@@ -86,8 +86,8 @@
                     "github": "Github",
                     "viewSite": "View Site",
                     "links": {
-                        "github": "#",
-                        "viewSite": "#"
+                        "github": "https://github.com/Oguzhanevin/My-Witflix",
+                        "viewSite": "https://my-witflix.vercel.app/"
                     }
                 },
                 {
@@ -102,8 +102,8 @@
                     "github": "Github",
                     "viewSite": "View Site",
                     "links": {
-                        "github": "#",
-                        "viewSite": "#"
+                        "github": "https://github.com/Oguzhanevin/pizza",
+                        "viewSite": "https://pizza-theta-murex.vercel.app/"
                     }
                 },
                 {
@@ -118,8 +118,8 @@
                     "github": "Github",
                     "viewSite": "View Site",
                     "links": {
-                        "github": "#",
-                        "viewSite": "#"
+                        "github": "https://github.com/Oguzhanevin/E-ticaret",
+                        "viewSite": "https://e-ticaret-pink.vercel.app/"
                     }
                 }
             ]
@@ -223,7 +223,7 @@
                     "github": "Github",
                     "viewSite": "Görüntüle",
                     "links": {
-                        "github": "#",
+                        "github": "https://github.com/Oguzhanevin/My-Witflix",
                         "viewSite": "https://my-witflix.vercel.app/"
                     }
                 },
@@ -239,7 +239,7 @@
                     "github": "Github",
                     "viewSite": "Görüntüle",
                     "links": {
-                        "github": "#",
+                        "github": "https://github.com/Oguzhanevin/pizza",
                         "viewSite": "https://pizza-theta-murex.vercel.app/"
                     }
                 },
@@ -255,7 +255,7 @@
                     "github": "Github",
                     "viewSite": "Görüntüle",
                     "links": {
-                        "github": "#",
+                        "github": "https://github.com/Oguzhanevin/E-ticaret",
                         "viewSite": "https://e-ticaret-pink.vercel.app/"
                     }
                 }

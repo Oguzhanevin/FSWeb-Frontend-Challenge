@@ -24,7 +24,7 @@ const Profile = () => {
             ))}
           </div>
 
-          <div className="w-full md:flex-1 md:max-w-[45%]">
+          <div className="w-full md:flex-1 md:max-w-[45%] flex flex-col items-center md:items-start">
             <h2 className="text-[#4338CA] dark:text-[#B7AAFF] font-medium text-3xl mb-4">
               {profile.aboutMe.title}
             </h2>
@@ -36,6 +36,15 @@ const Profile = () => {
                 {profile.aboutMe.descriptions[1]}
               </p>
             )}
+          </div>
+
+          {/* Sağ kısma resim ekleniyor */}
+          <div className="w-full md:w-[25%] flex justify-center md:justify-start mt-4 md:mt-0">
+            <img
+              src="/Assets/Images/ben.png.jpeg"
+              alt="Profile"
+              className="w-48 h-48 rounded-full object-cover border-4 border-[#4338CA] dark:border-[#B7AAFF]"
+            />
           </div>
         </div>
 
