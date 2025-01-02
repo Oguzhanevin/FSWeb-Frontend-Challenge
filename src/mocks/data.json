@@ -77,11 +77,11 @@
                 {
                     "title": "Witflix",
                     "image": "./../../Assets/Images/projects-1.png",
-                    "description": "This is my first project where we use html and css and this project is a netflix application.",
+                    "description": "This is my first project where I use HTML and CSS and this project is a Netflix application.I am sharing the address, You can check it out at ",
                     "technologies": [
-                        "react",
-                        "redux",
-                        "axios"
+                        "HTML",
+                        "CSS",
+                        "JAVA SCRIPT"
                     ],
                     "github": "Github",
                     "viewSite": "View Site",
@@ -93,11 +93,11 @@
                 {
                     "title": "Pizza",
                     "image": "./../../Assets/Images/projects-2.png",
-                    "description": "The pizza project is a more comprehensive project, I used React HTML CSS and  in this project, there is a page showing customer selections, then your order is received and the desired features.",
+                    "description": "The pizza project is a more comprehensive project, I used React HTML CSS and  in this project,I am sharing the address, You can check it out at",
                     "technologies": [
-                        "react",
-                        "redux",
-                        "axios"
+                        "REACT",
+                        "REDUX",
+                        "AXIOS"
                     ],
                     "github": "Github",
                     "viewSite": "View Site",
@@ -109,11 +109,11 @@
                 {
                     "title": "E-commerce site",
                     "image": "./../../Assets/Images/projects-3.png",
-                    "description": "The e-commerce site is detailed just like the pizza project and I applied what we learned in HTML CSS React, this project also has features such as accessing the products of an e-commerce site and ordering product features.",
+                    "description": "The e-commerce site is detailed just like the pizza project and I applied what we learned in HTML CSS React, I am sharing the address, You can check it out at",
                     "technologies": [
-                        "react",
-                        "redux",
-                        "axios"
+                        "REACT",
+                        "REDUX",
+                        "AXIOS"
                     ],
                     "github": "Github",
                     "viewSite": "View Site",
@@ -214,11 +214,11 @@
                 {
                     "title": "Witflix",
                     "image": "./../../Assets/Images/projects-1.png",
-                    "description": "Bu benim html ve css kullandığımız ilk projem ve bu proje bir netflix uygulamasıdır.",
+                    "description": "Bu benim HTML ve CSS kullandığım ilk projem ve bu proje bir Netflix uygulaması. Adresi paylaşıyorum, bakabilirsiniz.",
                     "technologies": [
-                        "react",
-                        "redux",
-                        "axios"
+                        "HTML",
+                        "CSS",
+                        "JAVA SCRIPT"
                     ],
                     "github": "Github",
                     "viewSite": "Görüntüle",
@@ -230,11 +230,11 @@
                 {
                     "title": "Pizza",
                     "image": "./../../Assets/Images/projects-2.png",
-                    "description": "Pizza projesi daha kapsamlı bir proje, React HTML CSS kullandım ve bu projemde müşteri seçimlerini, ardından siparişinizin alındığını ve istenilen özellikleri gösteren bir sayfa var.",
+                    "description": "Pizza projesi daha kapsamlı bir proje, React HTML CSS kullandım,Adresi paylaşıyorum, bakabilirsiniz.",
                     "technologies": [
-                        "react",
-                        "redux",
-                        "axios"
+                        "REACT",
+                        "REDUX",
+                        "AXIOS"
                     ],
                     "github": "Github",
                     "viewSite": "Görüntüle",
@@ -246,11 +246,11 @@
                 {
                     "title": "E ticaret Sitesi",
                     "image": "./../../Assets/Images/projects-3.png",
-                    "description": "E ticaret sitesi de aynı pizza projesi gibi detaylı ve HTML CSS Reactta öğrendiklerimizi uyguladım,bu projede de bir eticaret sitesinin ürünlerine erişim ve ürün özellikleri spariş verme gibi özellikleri var",
+                    "description": "E ticaret sitesi de aynı pizza projesi gibi detaylı ve HTML CSS Reactta öğrendiklerimizi uyguladım,Adresi paylaşıyorum, bakabilirsiniz.",
                     "technologies": [
-                        "react",
-                        "redux",
-                        "axios"
+                        "REACT",
+                        "REDUX",
+                        "AXIOS"
                     ],
                     "github": "Github",
                     "viewSite": "Görüntüle",
